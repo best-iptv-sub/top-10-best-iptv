@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://best-iptv-sub.github.io/top-10-best-iptv/sitemap.xml
